@@ -76,7 +76,6 @@ msgid "Display Name"
 msgstr "Nimi"
 
 #. module: stock_reserve_sale
-<<<<<<< 7bbea1b5bc693448c44c5e9cbc42881ef7abf060
 #: code:addons/stock_reserve_sale/model/sale.py:219
 #: code:addons/stock_reserve_sale/model/sale.py:231
 #, python-format
